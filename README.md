@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Java data structures and algorithms, Javascript, and discrete mathematics**
 
-- 📫 How to reach me **magne.svalland@icloud.com**
+- 📫 How to reach me **magne.svalland@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
