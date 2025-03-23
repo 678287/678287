@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Norway</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNlMXZobGlwMjdsdTNvbzg4dWN5czI4Nm8yM3V6YnBjbXl2MmNhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
 
--  I’m currently learning **C#, c++ and .Net**
+-  I’m currently learning **C#, C++ and .Net**
 
 - 📫 How to reach me **magne.svalland@outlook.com**
 
